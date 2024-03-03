@@ -46,7 +46,7 @@ Bienvenue dans notre application de gestion de films ! Cette application a été
 
 2. Accédez à l'application dans votre navigateur à l'adresse `http://localhost:3000`.
 
-3. Vous pouvez utilisez les fonctionnalités à l'adresse 'http://localhost:3000'.
+3. Vous pouvez utilisez les fonctionnalités à l'adresse `http://localhost:3000/documentation`.
 
 # Fonctionnalités Principales
 
