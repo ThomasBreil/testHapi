@@ -41,7 +41,7 @@ Bienvenue dans notre application de gestion de films ! Cette application a été
 
 1. Démarrez l'application en mode développement :
    ```
-   npm run dev
+   npm start
    ```
 
 2. Accédez à l'application dans votre navigateur à l'adresse `http://localhost:3000`.
