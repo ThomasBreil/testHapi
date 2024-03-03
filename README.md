@@ -19,7 +19,7 @@ Bienvenue dans notre application de gestion de films ! Cette application a été
 
 1. Clonez le dépôt depuis GitHub :
    ```
-   git clone https://github.com/votre-utilisateur/nom-du-repo.git](https://github.com/ThomasBreil/testHapi.git
+   git clone https://github.com/ThomasBreil/testHapi.git
    ```
 
 2. Installez les dépendances npm :
